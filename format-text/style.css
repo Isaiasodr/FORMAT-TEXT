@@ -1,0 +1,18 @@
+.card-header {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card-header button{
+    margin: 5px;
+    font-weight: bold;
+  }
+
+  .card-body textarea{
+      height: 300px;
+      
+  }
+  .card-body button{
+    font-weight: bold;
+  }
+
+  
